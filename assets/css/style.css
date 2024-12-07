@@ -1,11 +1,9 @@
 @font-face {
     font-family: Play;
-    src: url('Play-Regular.ttf')  format('truetype');
+    src: url('Play-Regular.ttf') format('truetype');
 }
 
 * {
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
@@ -164,4 +162,8 @@ a:visited {
 img {
     width: 100%;
     opacity: 1.0;
+}
+
+.accomplishments {
+
 }
